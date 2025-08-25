@@ -9,5 +9,4 @@
 - [MC4 Install Crimping Easy DIY](https://youtu.be/CFgRCBzquz4)
 - [Understanding PV Cables and MC4 Connectors](https://youtu.be/yQfFr0vvwRE)
 - [How To Make MC4 Connections](https://youtu.be/U6w2k6lNqqw)
-- [7 FATAL Wiring Mistakes Most DIYers Don't Know They Are Making | Most Are Guilty of 3](https://youtu.be/-jeP1d8PC1I)
-- 
+- [How to install an MC4 connector and do you need DC isolators ??? - Solar System Opinions](https://youtu.be/mz0DFrnoi3M)
